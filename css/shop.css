@@ -1,0 +1,39 @@
+.logo_header a,
+.logo_header a:visited {	
+  border-bottom: 1px solid #333;
+}
+
+.logo_header {
+  margin-bottom: 80px;
+}
+
+button.navbar-toggle .icon-bar {
+  background-color: #000;  
+}
+
+.product-thumb .thumb {
+  margin-bottom: 30px;
+}
+
+.product-detail {
+  display: none;
+}
+
+#contentpanel .title {
+  font-size: 2em;
+  line-height: 1em;	
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#contentpanel .btn {
+  margin-top: 20px;
+  background: blue;
+}
+
+@media (min-width: 768px) {
+  #contentpanel .title {
+    margin-top: 0px;
+  }
+  
+}

@@ -1,0 +1,4 @@
+Director:
+  rules:
+    'content//$Action/$ID/$Type': 'Content_Controller'
+    
